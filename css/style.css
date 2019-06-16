@@ -21,7 +21,7 @@ body {
 
 #content {
   padding: 20px;
-  background: rgba(255,255,255,.85);
+  background-image: linear-gradient(180deg, blue, yellow);
 }
 
 h1, h2 {
@@ -44,12 +44,17 @@ h3 {
   font-size: 1.5em;
   margin-top: .5em;
 }
+#source{
+  color: blue;
+  
+}
 
 img {
   max-width: 100%;
   width: 100%;
   height: auto;
 }
+
 
 p {
   font-size: 1em;
@@ -58,6 +63,7 @@ p {
 a {
   color: black;
   text-decoration: none;
+  
 }
 
 a:hover {
@@ -83,4 +89,5 @@ a:hover {
   .wrapper {
     width: 95%;
   }
+  
 }
