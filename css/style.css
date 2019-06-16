@@ -54,11 +54,12 @@ img {
   height: auto;
 }
 .top{
-    color:blue;
+    float:left;
     
   }
   
   .bottom{
+    float: bottom-left;
     
 }
 
