@@ -84,7 +84,9 @@ a:hover {
     width: 95%;
   }
   .top{
+    padding-bottom:10px;
   }
   
   .bottom{
+    padding-top:10px;
 }
