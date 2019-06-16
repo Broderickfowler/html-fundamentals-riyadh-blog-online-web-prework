@@ -53,6 +53,14 @@ img {
   width: 100%;
   height: auto;
 }
+.top{
+    color:blue;
+    padding-bottom:10px;
+  }
+  
+  .bottom{
+    padding-top:10px;
+}
 
 p {
   font-size: 1em;
@@ -86,12 +94,5 @@ a:hover {
   .wrapper {
     width: 95%;
   }
-  .top{
-    color:blue;
-    padding-bottom:10px;
-  }
   
-  .bottom{
-    padding-top:10px;
-}
 }
